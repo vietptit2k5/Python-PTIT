@@ -6,3 +6,5 @@ myset = set()
 for i in range(10) :
     myset.add(arr[i] % 42)
 print(len(myset))
+
+
